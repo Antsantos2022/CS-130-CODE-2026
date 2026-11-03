@@ -11,5 +11,5 @@
 
 ** Questions: **
 
-- Which year/decade saw prices rise the fastes? 
+- Which year/decade saw prices rise the fastest? 
 - What is the main key factor of inflation?
